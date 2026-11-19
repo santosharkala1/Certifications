@@ -9,4 +9,4 @@ Welcome to my professional certifications repository. Here I share certificates 
 - **Credential ID:** `M_205197`
 - **Certificate:** [View PDF](Python-Programming-Certificate.pdf)
 
-This certification is part of my ongoing Python learning journey. I am continuing to develop practical skills in data analysis and problem-solving.
+
